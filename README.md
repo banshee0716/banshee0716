@@ -4,7 +4,7 @@ I am especially interested in ***statistics*** and ***machine learning***. Also,
 
 In the future, I envision myself becoming a ***backend software engineer, data analyst, or even a data scientist***. I am also ***looking for a relevant internship or job opportunity*** to strengthen my skills. If you do have something to share with me, please get in touch with me via ***GitHub***.
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/NTNU_idiot?theme=light&font=Sen&ext=activity)
+
 
 <!---
 banshee0716/banshee0716 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
